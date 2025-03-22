@@ -13,7 +13,6 @@ FitLife is a fitness app designed to help users improve their health and fitness
 
 - **HTML**: Markup for the structure of the webpage.
 - **CSS**: Styles and layout for the website, using Flexbox and CSS Grid for responsive design.
-- **JavaScript**: (If used in future updates for interactivity).
 
 ## Installation
 
